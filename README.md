@@ -37,7 +37,7 @@ Hey y'all, I'm a UT CS freshman that's hungry to learn about artificial intellig
 <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg'>
 <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'>
 <br />
-
+<br />
  
 ---
 
