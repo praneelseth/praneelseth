@@ -40,7 +40,3 @@ Hey y'all, I'm a UT CS freshman that's hungry to learn about artificial intellig
 <br />
  
 ---
-
-![Praneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=praneelseth&show_icons=true&theme=swift)
-
----
