@@ -2,7 +2,7 @@
 
 **`AI Researcher x Software Engineer`**
 
-Hey y'all, I'm a UT CS freshman that's hungry to learn about artificial intelligence and software engineering. I enjoy learning the most through projects that make a real world impact.
+Hey y'all, I'm a UT CS student that's hungry to learn about artificial intelligence and software engineering. I enjoy learning the most through projects that make a real world impact.
 
 ---
 
